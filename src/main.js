@@ -1,0 +1,3 @@
+
+import './cargarCategoria';
+import './eventoCategoria';
